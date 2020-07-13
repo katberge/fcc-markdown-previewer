@@ -1,0 +1,23 @@
+img {
+  width: 100%;
+}
+
+#title {
+  padding: 20px;
+  text-shadow: #d8ecf3 3px 3px;
+}
+
+#right {
+  background-color: #d8ecf3;
+}
+
+textarea {
+  border: 3px solid #d8ecf3;
+  resize: none;
+}
+
+blockquote {
+  border-left: 3px solid gray;
+  padding-left: 5%;
+  color: gray;
+}
